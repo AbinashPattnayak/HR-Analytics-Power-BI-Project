@@ -24,11 +24,11 @@ Analyze employee data to track attrition, demographics, and workforce trends for
 - Employees aged 25–35 most likely to leave  
 - Low salary slabs → higher attrition rate  
 
-## 📜 Credits
+##  Credits
 - Dataset: Public Domain Dataset by  "Rushikesh Konapure and Pranav Uikey"
 - Developed by : Abinash Pattnayak
 
 "Dataset credit to original source. This project is strictly for educational and portfolio purpose only".
 
-## ⚠️ Disclaimer
+## Disclaimer
 This project is **strictly for educational & portfolio purposes only**.
